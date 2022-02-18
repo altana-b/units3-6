@@ -26,3 +26,15 @@ A dog can send a direct message to another dog
 * After clicking on this button, a textbox where a message can be typed into appears. In addition, there is an button for adding attachments (i.e. pictures, videos, sounds, etc.), after typing on which Dog A can add those from their device. 
 * After typing the message and (optionally) adding attachments, Dog A clicks the “send message” button, after which the “your message is sent” window appears.
 * The recepient of the message sees a new unseen message on the notifications page or at the top of the "Direct messages" page
+
+## Views:
+
+*	Splash page
+*	Sign up page
+*	Search results page
+*	My friends page
+*	Friend requests page
+*	Direct messages page
+*	Notifications page
+
+
