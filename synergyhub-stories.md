@@ -2,7 +2,7 @@
 
 From the **task list**, a user can click a task and see the task details. 
 If the task is assigned to the current user and is complete, the user can input a time estimate in hours for how long it took them to complete it. 
-In the **task list** and **task details**, the time estimate is updated.
+In the **task details**, the time estimate is updated.
 * Think of at least one original story to add to the SynergyHub app
 *	Filtering tasks
 
